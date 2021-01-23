@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navbar-brand{
+    font-size: 16px;
+}
+.main-menu-area{
+    background-color: rgb(7, 33, 116);
+}
+.main-menu-area .nav-link{
+
+    color: white!important;
+}
+
+.logo img{
+    padding-left: 20px;
+    width: 78%;
+}
+form{
+    padding: 20px;
+    box-sizing: border-box;
+    margin-top: 20px;
+ 
+}
+#Search{
+    width: 80%;
+}
+.main-down-menu .nav-link{
+    color: white!important;
+    font-size: 18px;
+}
+.main-right-menu li a i{
+    font-size: 35px;
+    margin-right: 4px;
+}
+.carousel-caption h2{
+    font-weight: bold!important;
+}
+.carousel-item img{
+    height: 100%;
+    margin-top: 17px;
+}
+#banner-down-icon i{
+    font-size: 40px;
+    margin-right: 20px;
+}
+#offer-box1 img{
+    position: relative;
+}
+#offer-box1 .b1-content{
+    position: absolute;
+    width: 60%;
+    padding: 25px;
+
+
+}
+#offer-box1 .b1-content h5{
+    font-weight: bold;
+    color: #28a745;
+}
+#offer-box2 img{
+    position: relative;
+}
+#offer-box2 .b2-content{
+    background: rgba(128, 128, 128, 0);
+    position: absolute;
+    width: 60%;
+    padding: 25px;
+    color: rgb(255, 255, 255);
+}
+.product-first-section{
+    margin: 25px 10px;
+    padding: 60px 20px;
+    background: rgba(229, 234, 235, 0.527);
+}
+.product-first-section ul li{
+    padding: 10px;
+    box-sizing: border-box;
+    transition: linear all 0.4s;
+    text-align: center;
+ 
+}
+.product-first-section ul li:hover{
+border: 1px solid gray;
+box-sizing: border-box;
+ 
+}
+.product-icon ul{
+    list-style: none;
+}
+.product-icon ul li{
+    display: inline-block;
+}
+.product-icon{
+    background: white;
+    padding: 15px 0px;
+}
+.product-icon span a i{
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    background: skyblue;
+    border-radius: 50%;
+    font-size: 18px;
+    text-align: center;
+}
+.shop-by-health-consern{
+    margin: 25px 0px;
+    padding: 90px 25px;
+}
+.consern-item span{
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(40, 40, 44, 0.904);
+}
+.consern-item i{
+    margin-top: 4px;
+    text-align: center;
+    font-size: 30px;
+    margin-right: 15px;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    color: indigo;
+    
+}
+.banner2-bg{
+    background-image: url("../img/banner-2-bg.jpg");
+    position: center;
+    padding: 20px 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.banner2-bg h2{
+    font-weight: bold;
+}
+.seller-brand-area{
+    margin: 25px 0px;
+    text-align: center;
+    background-color: rgba(190, 176, 176, 0.068);
+}
+.seller-brand-area img{
+    border-radius:50%;
+}
+.recommand-products-area{
+    padding: 25px 0px;
+    text-align: center;
+}
+.recommand-products-area .title{
+    text-align: justify;
+    font-size: 30px;
+    font-weight: 600;
+}
+.recommand-products-area ul li a i{
+    margin-left: 12px;
+}
+.recommand-products-area img{
+    position: relative;
+}
+.recommand-products-area li .top-details{
+    position: absolute;
+    top: 26px;
+    right: 34px;
+    z-index: 5;
+    background-color: #1fd7eb;
+    padding: 2px 10px;
+    color: white;
+    font-weight: bold;
+}
+.recommand-products-area li .top-details1{
+    position: absolute;
+    top: 26px;
+    right: 34px;
+    z-index: 5;
+    background-color: #1fd7eb;
+    padding: 2px 10px;
+    color: white;
+    font-weight: bold;
+}
+#owl-demo{
+    padding: 20px;
+    box-sizing: border-box;
+}
+#owl-demo h3{
+    font-weight: bold;
+
+}
+
+#owl-demo .item img{
+    display: block;
+    width: 30%;
+    margin: 0px auto;
+}
+.post-item p a{
+    color: Black;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+.post-item img{
+    transition: 0.4s;
+}
+.post-item img:hover{
+    opacity: 0.8;
+}
+.post-item p a:hover{
+    color: rgb(16, 174, 185);
+
+    
+}
+.post-item h5 a{
+    text-decoration: none;
+    font-size: 14px;
+}
+.contact-us-section h2{
+    font-weight: bold;
+}
+.contact-us-section p span i{
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    color: rgb(1, 8, 1);
+    background-color:#007bff;
+    color: white;
+    margin: 0px 5px;
+    text-align: center;
+    border-radius: 50%;
+}

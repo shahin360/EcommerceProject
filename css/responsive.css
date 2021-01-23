@@ -1,0 +1,139 @@
+@media(max-width:1500px){
+  .main-right-menu{
+    font-size: 15px;
+  }
+}
+
+
+@media(max-width:1400px){
+  body{
+  
+  }
+  .navbar{
+    padding: 0;
+  }
+  .nav-link {
+    padding: 7px;
+  }
+  #offer-box2 .b2-content {
+    background: rgba(128, 128, 128, 0);
+    position: absolute;
+    width: 60%;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+}
+.main-right-menu{
+  font-size: 18px;
+}
+}
+  
+
+
+@media(max-width:1342px){
+  .navbar-brand {
+    font-size: 13px!important;
+}
+  .navbar{
+    padding: 0;
+  }
+  .nav-link {
+    padding: 7px;
+  }
+  #offer-box2 .b2-content {
+    background: rgba(128, 128, 128, 0);
+    position: absolute;
+    width: 60%;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+}
+.b2-content h5{
+  font-weight: normal;
+  font-size: 15px;
+}
+.b2-content h3{
+  font-weight: normal;
+  font-size: 15px;
+}
+.main-right-menu{
+  font-size: 16px;
+}
+
+  
+
+}
+@media(max-width:1160px){
+
+  .main-right-menu{
+    font-size: 12px;
+  }
+  .notice{
+    display: none;
+  
+  }
+  .navbar-top{
+   display: none;
+  }
+
+
+}
+
+@media(max-width:991px){
+ 
+  .banner-slider{
+   max-width: 100%!important;
+   flex: none;
+   padding: 0;
+  }
+ 
+  .main-right-menu{
+    font-size: 20px;
+  }
+  .side-offer{
+    -webkit-box-flex: 0;
+  -ms-flex: 0 0 25%;
+  flex: none;
+  max-width: 100%;
+  }
+  .logo{
+    text-align: center;
+  }
+  .logo img{
+    width: 80%;
+  }
+  .main-right-menu{
+    margin: 0px auto;
+  }
+ 
+}
+@media(max-width:767px){
+  .main-down-menu .nav-link{
+    font-size: 12px;
+}
+.shop-icon-text{
+  margin: 0px auto;
+  font-size: 12px;
+  font-weight: bold;
+}
+.main-right-menu{
+  margin: 0px auto;
+ font-size: 12px
+}
+.carousel-item img{
+    height: 100%;
+    margin-top: 17px;
+}
+.navbar{
+  padding: 10px;
+}
+.product-first-section {
+
+  margin: 0px auto!important;
+  background: rgba(229, 234, 235, 0.527);
+}
+.contact-us-section h2{
+  font-size: 15px!important;
+}
+.contact-us-section p span i{
+  margin: 0px 2px!important;
+}
+}
